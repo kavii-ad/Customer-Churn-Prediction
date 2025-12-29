@@ -1,5 +1,4 @@
  Customer-Churn-Prediction
-A project to predict customer churn using ML# Customer Churn Prediction
 
 ## Project Description
 This project predicts whether a customer will churn (leave) using machine learning techniques.
